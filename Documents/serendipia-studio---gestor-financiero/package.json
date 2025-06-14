@@ -14,14 +14,16 @@
   "dependencies": {
     "@firebase/firestore": "^4.7.17",
     "firebase": "^11.9.1",
+    "firebase-admin": "^13.4.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
   },
   "devDependencies": {
-    "@types/node": "^22.14.0",
+    "@types/node": "^22.15.31",
     "@types/react": "^19.1.8",
     "@types/react-dom": "^19.1.6",
     "concurrently": "^8.2.2",
+    "ts-node": "^10.9.2",
     "typescript": "~5.7.2",
     "vite": "^6.2.0",
     "wait-on": "^8.0.3"
