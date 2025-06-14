@@ -7,6 +7,8 @@ services:
     envVars:
       - key: NODE_VERSION
         value: 18.17.0
+      - key: PORT
+        value: 3000
       - key: VITE_FIREBASE_API_KEY
         value: AIzaSyDii5EHPKW2z3D_l0pxmIMYA68E_Q5A7i4
       - key: VITE_FIREBASE_AUTH_DOMAIN
