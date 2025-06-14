@@ -1,0 +1,5 @@
+{
+  "name": "Serendipia Studio - Gestor Financiero",
+  "description": "Gestor financiero para Serendipia Studio, registrando ventas (ingresos) y gastos, con soporte para múltiples métodos de pago.",
+  "requestFramePermissions": []
+}
